@@ -1,0 +1,126 @@
+==== k = 8 ====
+Cluster 0 | n=2195 | r²=553.15 | d²=1106.30 | dens_r=3.97 | dens_d=1.98
+Cluster 1 | n=1424 | r²=420.99 | d²=841.99 | dens_r=3.38 | dens_d=1.69
+Cluster 2 | n=3079 | r²=365.52 | d²=731.05 | dens_r=8.42 | dens_d=4.21
+Cluster 3 | n=67 | r²=1636.15 | d²=3272.29 | dens_r=0.04 | dens_d=0.02
+Cluster 4 | n=1159 | r²=384.19 | d²=768.39 | dens_r=3.02 | dens_d=1.51
+Cluster 5 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+
+==== k = 9 ====
+Cluster 0 | n=3079 | r²=365.52 | d²=731.05 | dens_r=8.42 | dens_d=4.21
+Cluster 1 | n=1424 | r²=420.99 | d²=841.99 | dens_r=3.38 | dens_d=1.69
+Cluster 2 | n=981 | r²=734.67 | d²=1469.35 | dens_r=1.34 | dens_d=0.67
+Cluster 3 | n=67 | r²=1636.15 | d²=3272.29 | dens_r=0.04 | dens_d=0.02
+Cluster 4 | n=1159 | r²=384.19 | d²=768.39 | dens_r=3.02 | dens_d=1.51
+Cluster 5 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 8 | n=1214 | r²=379.08 | d²=758.15 | dens_r=3.20 | dens_d=1.60
+
+==== k = 10 ====
+Cluster 0 | n=981 | r²=734.67 | d²=1469.35 | dens_r=1.34 | dens_d=0.67
+Cluster 1 | n=1424 | r²=420.99 | d²=841.99 | dens_r=3.38 | dens_d=1.69
+Cluster 2 | n=2013 | r²=369.13 | d²=738.27 | dens_r=5.45 | dens_d=2.73
+Cluster 3 | n=67 | r²=1636.15 | d²=3272.29 | dens_r=0.04 | dens_d=0.02
+Cluster 4 | n=1159 | r²=384.19 | d²=768.39 | dens_r=3.02 | dens_d=1.51
+Cluster 5 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 8 | n=1214 | r²=379.08 | d²=758.15 | dens_r=3.20 | dens_d=1.60
+Cluster 9 | n=1066 | r²=329.10 | d²=658.20 | dens_r=3.24 | dens_d=1.62
+
+==== k = 11 ====
+Cluster 0 | n=1424 | r²=420.99 | d²=841.99 | dens_r=3.38 | dens_d=1.69
+Cluster 1 | n=954 | r²=530.92 | d²=1061.84 | dens_r=1.80 | dens_d=0.90
+Cluster 2 | n=2013 | r²=369.13 | d²=738.27 | dens_r=5.45 | dens_d=2.73
+Cluster 3 | n=67 | r²=1636.15 | d²=3272.29 | dens_r=0.04 | dens_d=0.02
+Cluster 4 | n=1159 | r²=384.19 | d²=768.39 | dens_r=3.02 | dens_d=1.51
+Cluster 5 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 8 | n=1214 | r²=379.08 | d²=758.15 | dens_r=3.20 | dens_d=1.60
+Cluster 9 | n=1066 | r²=329.10 | d²=658.20 | dens_r=3.24 | dens_d=1.62
+Cluster 10 | n=27 | r²=6838.13 | d²=13676.26 | dens_r=0.00 | dens_d=0.00
+
+==== k = 12 ====
+Cluster 0 | n=954 | r²=530.92 | d²=1061.84 | dens_r=1.80 | dens_d=0.90
+Cluster 1 | n=67 | r²=1636.15 | d²=3272.29 | dens_r=0.04 | dens_d=0.02
+Cluster 2 | n=2013 | r²=369.13 | d²=738.27 | dens_r=5.45 | dens_d=2.73
+Cluster 3 | n=1214 | r²=379.08 | d²=758.15 | dens_r=3.20 | dens_d=1.60
+Cluster 4 | n=1159 | r²=384.19 | d²=768.39 | dens_r=3.02 | dens_d=1.51
+Cluster 5 | n=556 | r²=466.86 | d²=933.72 | dens_r=1.19 | dens_d=0.60
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 8 | n=868 | r²=360.52 | d²=721.04 | dens_r=2.41 | dens_d=1.20
+Cluster 9 | n=1066 | r²=329.10 | d²=658.20 | dens_r=3.24 | dens_d=1.62
+Cluster 10 | n=27 | r²=6838.13 | d²=13676.26 | dens_r=0.00 | dens_d=0.00
+Cluster 11 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+
+==== k = 13 ====
+Cluster 0 | n=2013 | r²=369.13 | d²=738.27 | dens_r=5.45 | dens_d=2.73
+Cluster 1 | n=67 | r²=1636.15 | d²=3272.29 | dens_r=0.04 | dens_d=0.02
+Cluster 2 | n=718 | r²=506.51 | d²=1013.01 | dens_r=1.42 | dens_d=0.71
+Cluster 3 | n=1214 | r²=379.08 | d²=758.15 | dens_r=3.20 | dens_d=1.60
+Cluster 4 | n=1159 | r²=384.19 | d²=768.39 | dens_r=3.02 | dens_d=1.51
+Cluster 5 | n=556 | r²=466.86 | d²=933.72 | dens_r=1.19 | dens_d=0.60
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 8 | n=868 | r²=360.52 | d²=721.04 | dens_r=2.41 | dens_d=1.20
+Cluster 9 | n=1066 | r²=329.10 | d²=658.20 | dens_r=3.24 | dens_d=1.62
+Cluster 10 | n=27 | r²=6838.13 | d²=13676.26 | dens_r=0.00 | dens_d=0.00
+Cluster 11 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 12 | n=236 | r²=492.36 | d²=984.71 | dens_r=0.48 | dens_d=0.24
+
+==== k = 14 ====
+Cluster 0 | n=67 | r²=1636.15 | d²=3272.29 | dens_r=0.04 | dens_d=0.02
+Cluster 1 | n=1159 | r²=384.19 | d²=768.39 | dens_r=3.02 | dens_d=1.51
+Cluster 2 | n=718 | r²=506.51 | d²=1013.01 | dens_r=1.42 | dens_d=0.71
+Cluster 3 | n=1214 | r²=379.08 | d²=758.15 | dens_r=3.20 | dens_d=1.60
+Cluster 4 | n=27 | r²=6838.13 | d²=13676.26 | dens_r=0.00 | dens_d=0.00
+Cluster 5 | n=556 | r²=466.86 | d²=933.72 | dens_r=1.19 | dens_d=0.60
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 8 | n=868 | r²=360.52 | d²=721.04 | dens_r=2.41 | dens_d=1.20
+Cluster 9 | n=1066 | r²=329.10 | d²=658.20 | dens_r=3.24 | dens_d=1.62
+Cluster 10 | n=890 | r²=409.92 | d²=819.84 | dens_r=2.17 | dens_d=1.09
+Cluster 11 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 12 | n=236 | r²=492.36 | d²=984.71 | dens_r=0.48 | dens_d=0.24
+Cluster 13 | n=1123 | r²=316.12 | d²=632.24 | dens_r=3.55 | dens_d=1.78
+
+==== k = 15 ====
+Cluster 0 | n=1159 | r²=384.19 | d²=768.39 | dens_r=3.02 | dens_d=1.51
+Cluster 1 | n=27 | r²=6838.13 | d²=13676.26 | dens_r=0.00 | dens_d=0.00
+Cluster 2 | n=718 | r²=506.51 | d²=1013.01 | dens_r=1.42 | dens_d=0.71
+Cluster 3 | n=1214 | r²=379.08 | d²=758.15 | dens_r=3.20 | dens_d=1.60
+Cluster 4 | n=890 | r²=409.92 | d²=819.84 | dens_r=2.17 | dens_d=1.09
+Cluster 5 | n=556 | r²=466.86 | d²=933.72 | dens_r=1.19 | dens_d=0.60
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 8 | n=868 | r²=360.52 | d²=721.04 | dens_r=2.41 | dens_d=1.20
+Cluster 9 | n=1066 | r²=329.10 | d²=658.20 | dens_r=3.24 | dens_d=1.62
+Cluster 10 | n=23 | r²=1720.66 | d²=3441.33 | dens_r=0.01 | dens_d=0.01
+Cluster 11 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 12 | n=236 | r²=492.36 | d²=984.71 | dens_r=0.48 | dens_d=0.24
+Cluster 13 | n=1123 | r²=316.12 | d²=632.24 | dens_r=3.55 | dens_d=1.78
+Cluster 14 | n=44 | r²=1136.86 | d²=2273.73 | dens_r=0.04 | dens_d=0.02
+
+==== k = 16 ====
+Cluster 0 | n=27 | r²=6838.13 | d²=13676.26 | dens_r=0.00 | dens_d=0.00
+Cluster 1 | n=890 | r²=409.92 | d²=819.84 | dens_r=2.17 | dens_d=1.09
+Cluster 2 | n=718 | r²=506.51 | d²=1013.01 | dens_r=1.42 | dens_d=0.71
+Cluster 3 | n=1214 | r²=379.08 | d²=758.15 | dens_r=3.20 | dens_d=1.60
+Cluster 4 | n=1066 | r²=329.10 | d²=658.20 | dens_r=3.24 | dens_d=1.62
+Cluster 5 | n=556 | r²=466.86 | d²=933.72 | dens_r=1.19 | dens_d=0.60
+Cluster 6 | n=74 | r²=960.01 | d²=1920.02 | dens_r=0.08 | dens_d=0.04
+Cluster 7 | n=470 | r²=324.53 | d²=649.07 | dens_r=1.45 | dens_d=0.72
+Cluster 8 | n=868 | r²=360.52 | d²=721.04 | dens_r=2.41 | dens_d=1.20
+Cluster 9 | n=689 | r²=399.11 | d²=798.22 | dens_r=1.73 | dens_d=0.86
+Cluster 10 | n=23 | r²=1720.66 | d²=3441.33 | dens_r=0.01 | dens_d=0.01
+Cluster 11 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+Cluster 12 | n=236 | r²=492.36 | d²=984.71 | dens_r=0.48 | dens_d=0.24
+Cluster 13 | n=1123 | r²=316.12 | d²=632.24 | dens_r=3.55 | dens_d=1.78
+Cluster 14 | n=44 | r²=1136.86 | d²=2273.73 | dens_r=0.04 | dens_d=0.02
+Cluster 15 | n=1 | r²=0.00 | d²=0.00 | dens_r=0.00 | dens_d=0.00
+

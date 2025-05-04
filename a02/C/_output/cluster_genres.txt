@@ -1,0 +1,96 @@
+
+ Top genres by cluster 0:
+  Rock: 1102 musics
+  Punk: 1016 musics
+  Experimental: 867 musics
+  Electronic: 721 musics
+  Noise: 569 musics
+  Garage: 449 musics
+  Avant-Garde: 333 musics
+  Noise-Rock: 303 musics
+  Hardcore: 292 musics
+  Indie-Rock: 289 musics
+
+ Top genres by cluster 1:
+  Electronic: 454 musics
+  Rock: 429 musics
+  Experimental: 376 musics
+  Folk: 197 musics
+  Avant-Garde: 193 musics
+  Pop: 181 musics
+  Indie-Rock: 179 musics
+  Experimental Pop: 156 musics
+  Jazz: 123 musics
+  Hip-Hop: 122 musics
+
+ Top genres by cluster 2:
+  Experimental: 3451 musics
+  Electronic: 2115 musics
+  Avant-Garde: 1862 musics
+  Improv: 1344 musics
+  Soundtrack: 1251 musics
+  Instrumental: 1241 musics
+  Ambient: 1057 musics
+  Folk: 999 musics
+  Experimental Pop: 810 musics
+  Sound Art: 778 musics
+
+ Top genres by cluster 3:
+  Electronic: 2387 musics
+  Experimental: 1588 musics
+  Hip-Hop: 731 musics
+  Avant-Garde: 560 musics
+  Noise: 549 musics
+  Electroacoustic: 451 musics
+  IDM: 387 musics
+  Glitch: 348 musics
+  Experimental Pop: 285 musics
+  Musique Concrete: 269 musics
+
+ Top genres by cluster 4:
+  Experimental: 4217 musics
+  Electronic: 2904 musics
+  Punk: 1946 musics
+  Noise: 1929 musics
+  Rock: 1567 musics
+  Ambient: 1291 musics
+  Electroacoustic: 1141 musics
+  Garage: 1119 musics
+  Avant-Garde: 1100 musics
+  Lo-Fi: 1033 musics
+
+ Top genres by cluster 5:
+  Experimental: 936 musics
+  Instrumental: 703 musics
+  Folk: 628 musics
+  Ambient: 623 musics
+  Soundtrack: 610 musics
+  Classical: 597 musics
+  Lo-Fi: 565 musics
+  Electronic: 564 musics
+  Old-Time / Historic: 549 musics
+  Avant-Garde: 378 musics
+
+ Top genres by cluster 6:
+  Electronic: 8827 musics
+  Experimental: 5882 musics
+  Hip-Hop: 3389 musics
+  Rock: 2314 musics
+  Experimental Pop: 2098 musics
+  Pop: 1902 musics
+  Avant-Garde: 1763 musics
+  Indie-Rock: 1662 musics
+  Noise: 1600 musics
+  IDM: 1576 musics
+
+ Top genres by cluster 7:
+  Experimental: 6787 musics
+  Electronic: 5316 musics
+  Folk: 3788 musics
+  Singer-Songwriter: 2550 musics
+  Pop: 2353 musics
+  Avant-Garde: 2342 musics
+  Experimental Pop: 2324 musics
+  Ambient: 2288 musics
+  Instrumental: 2247 musics
+  Lo-Fi: 2204 musics
