@@ -1,0 +1,9 @@
+- The task should be completed and submitted on e-learning by EOD **5th of March 2025.**
+- The goal of today’s practical work is to reproduce an application of a data mining process, published in a scientific venue
+
+- Submission includes a Jupyter notebook replicating the predictive modelling and a report on the replicability process (maximum of 2 pages). 
+
+- Your report should briefly introduce the objective of the work and focus on the replication of the methodology. 
+- Were you able to replicate the methodology and/or results? Yes/No – justify your answer
+- Are there any aspects in the publication that could enable a more straightforward replication process? If so, address them.
+
